@@ -45,6 +45,7 @@ The steps of the programming assignment are summarized below:
 Note: You need to determine a proper scale factor x for your graph to make a single ‘*’ indicate x number of dice rolls. This scale is up to you. Experiment with different x values so that your graph looks compact and neat.
 
 ***
-Bonus:
-* <img width="275" alt="3" src="https://github.com/gulsoy83/Demonstrate-the-basic-form-of-Central-Limit-Theorem/assets/46426033/d134b1ac-5da5-4846-826b-5bd8dea70101">
+Bonus:  
+<img width="275" alt="3" src="https://github.com/gulsoy83/Demonstrate-the-basic-form-of-Central-Limit-Theorem/assets/46426033/d134b1ac-5da5-4846-826b-5bd8dea70101">  
+
 

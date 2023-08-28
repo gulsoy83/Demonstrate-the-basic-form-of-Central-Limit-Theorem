@@ -8,13 +8,13 @@ The steps of the programming assignment are summarized below:
 
 <img width="145" alt="1" src="https://github.com/gulsoy83/Demonstrate-the-basic-form-of-Central-Limit-Theorem/assets/46426033/719abb76-136e-4bd8-99c4-daf8210c1533">
 ```
-*  *  * * 
-* * * * * * 
-* * * * * * 
-* * * * * * 
-* * * * * * 
-* * * * * * 
-1 2 3 4 5 6
+        *  *  * * 
+        * * * * * * 
+        * * * * * * 
+        * * * * * * 
+        * * * * * * 
+        * * * * * * 
+        1 2 3 4 5 6
 ```
 2. Now instead of one die, run a simulation of 10000 rolls of two dice simultaneously and at the end of each roll, sum up the values of the resulting face values of the two dice. For instance, if one die reads 2, the other reads 6, the sum will be 8. Then, draw a bar graph of frequency versus possible face value sums as shown below (the sum of two dice will be between 2-12). The resulting graph will look like a normal distribution (bell shaped curve) as below:
 

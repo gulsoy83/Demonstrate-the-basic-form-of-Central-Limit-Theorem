@@ -8,13 +8,14 @@ The steps of the programming assignment are summarized below:
 
 <img width="145" alt="1" src="https://github.com/gulsoy83/Demonstrate-the-basic-form-of-Central-Limit-Theorem/assets/46426033/719abb76-136e-4bd8-99c4-daf8210c1533"/>
 
-        *  *  * * 
-        * * * * * * 
-        * * * * * * 
-        * * * * * * 
-        * * * * * * 
-        * * * * * * 
-        1 2 3 4 5 6
+*  *  * * 
+* * * * * * 
+* * * * * * 
+* * * * * * 
+* * * * * * 
+* * * * * * 
+1 2 3 4 5 6
+
 ```
 puts "hello world"
 
